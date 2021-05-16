@@ -1,3 +1,10 @@
+
+## 💻 Projeto
+
+O ignews é uma aplicação onde o usuário pode ler sobre as movidades do React através de uma assinatura.
+
+</br>
+
 ## 🚀 Como executar
 
 - Clone o repositório
