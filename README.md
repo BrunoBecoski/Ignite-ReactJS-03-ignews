@@ -1,3 +1,8 @@
+## 📖 Sobre
+
+Projeto desenvolvido durante o Ignite da Rocketseat | Trilha ReactJS Chapter III.
+
+</br>
 
 ## 💻 Projeto
 
