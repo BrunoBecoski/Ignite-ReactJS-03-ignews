@@ -1,3 +1,13 @@
+
+<p align="center">
+  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>
+</p> 
+
+</br>
+
 ## 📖 Sobre
 
 Projeto desenvolvido durante o Ignite da Rocketseat | Trilha ReactJS Chapter III.
