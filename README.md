@@ -14,6 +14,16 @@ Projeto desenvolvido durante o Ignite da Rocketseat | Trilha ReactJS Chapter III
 
 </br>
 
+## ⚙ Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Next.js](https://nextjs.org)
+- [TypeScript](https://www.typescriptlang.org)
+- [Sass](https://sass-lang.com)
+
+</br>
+
 ## 💻 Projeto
 
 O ignews é uma aplicação onde o usuário pode ler sobre as movidades do React através de uma assinatura.
