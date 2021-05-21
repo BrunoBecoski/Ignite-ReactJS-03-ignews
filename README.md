@@ -36,7 +36,7 @@ O ignews é uma aplicação onde o usuário pode ler sobre as movidades do React
 ```
 git clone https://github.com/BrunoBecoski/Ignite-ReactJS-03-ignews.git
 ```
-- Instale as depêndencias
+- Instale as dependências
 ```
 yarn
 ```
