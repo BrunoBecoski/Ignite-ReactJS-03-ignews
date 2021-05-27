@@ -1,3 +1,8 @@
+<p align="center">
+  <img alt="ignews logo" src=".github/logo.png" />
+</p>
+
+</br >
 
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
