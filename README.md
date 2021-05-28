@@ -27,6 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org)
 - [Sass](https://sass-lang.com)
 - [Stripe](https://stripe.com)
+- [Fauna](https://fauna.com)
 
 </br>
 
