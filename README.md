@@ -13,6 +13,10 @@
 
 </br>
 
+<img alt="home" src=".github/home.png" />
+
+</br>
+
 ## 📖 Sobre
 
 Projeto desenvolvido durante o Ignite da Rocketseat | Trilha ReactJS Chapter III.
