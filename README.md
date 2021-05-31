@@ -13,7 +13,9 @@
 
 </br>
 
-<img alt="home" src=".github/home.png" />
+<img alt="Home" src=".github/home.png" />
+
+<img alt="Posts" src=".github/posts.png" />
 
 </br>
 
