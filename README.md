@@ -14,9 +14,10 @@
 </br>
 
 <img alt="Home" src=".github/home.png" />
-
-<img alt="Posts" src=".github/posts.png" />
-
+<div align="center">
+  <img alt="Posts" src=".github/posts.png" height="200" />
+  <img alt="Post" src=".github/post.png" height="200" />
+</div>
 </br>
 
 ## 📖 Sobre
