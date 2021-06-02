@@ -35,6 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Sass](https://sass-lang.com)
 - [Stripe](https://stripe.com)
 - [Fauna](https://fauna.com)
+- [Prismic](https://prismic.io)
 
 </br>
 
